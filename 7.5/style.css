@@ -1,0 +1,88 @@
+
+html{
+    background-image: url(imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    
+    
+    
+
+}
+body{
+    
+    width:500px;
+    background-color: #8c5664;
+    margin:160px auto 0px auto;
+    padding:10px;
+    
+    
+
+    /*- Largura: 500, cor de fundo #8c5664,
+     margem no topo 160, centralizado, padding 10,
+      padding no topo 0.*/
+}
+
+h1{
+    font-family:'calibri';
+    color:#e4f2e4;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-align: center;
+
+    /*- Candara, #e4f2e4, espaçamento entre letra 2, 
+    espaçamento entre palavras 5, centralizado.*/
+
+}
+
+h2{
+    font-family:'calibri';
+    color:#e4f2e4;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+}
+p{
+    font-family:'calibri';
+    color:#e4f2e4;
+    font-size:18px;
+    text-align: justify;
+    line-height: 27px;
+    
+
+}
+em{
+    font-family:'calibri';
+    color:#ffffff;
+    font-size:14px;
+    text-align: justify;
+    line-height: 27px;
+
+}
+
+a:link{
+    font-family:'calibri';
+    color:#e4f2e4;
+    font-weight: bold;
+    text-decoration: none;
+    font-size:18px;
+
+
+}
+
+a:hover{
+
+    font-family:'calibri';
+    color:#ffffff;
+    font-weight: bold;
+    text-decoration: underline; 
+    font-size:18px;
+}
+
+a:visited{
+    font-family:'calibri';
+    color:#bf988f;
+    font-weight: bold;
+    text-decoration: underline; 
+    font-size:18px;
+
+}

@@ -1,0 +1,29 @@
+Título das páginas: Cabo de Guerra
+
+Conteúdo {
+- Largura: 500, cor de fundo #8c5664, margem no topo 160, centralizado, padding 10, padding no topo 0.
+
+Geral
+- Sem margem, imagem de fundo fixa, não repete, centralizada no topo, cor de fundo #e4f2e4.
+
+Título 1 
+- Candara, #e4f2e4, espaçamento entre letra 2, espaçamento entre palavras 5, centralizado.
+
+Título 2 
+- Candara, #e4f2e4, espaçamento entre letra 2, espaçamento entre palavras 5.
+
+Texto principal
+- Calibri, justificado, 18, entrelinha 1.5, #e4f2e4.
+
+Texto destacado
+- Calibri, justificado, 14, entrelinha 1.5, #ffffff, itálico.
+
+Link normal
+Calibri, 18, sem sublinhado, negrito, #e4f2e4.
+
+Link visitado
+Calibri, 18, sublinhado, negrito, #bf988f.
+
+Link com mouse em cima
+Calibri, 18, sublinhado, negrito, #ffffff.
+

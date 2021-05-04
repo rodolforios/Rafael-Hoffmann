@@ -1,0 +1,63 @@
+body{
+    background-color:#FFFBE6 ;
+
+}
+
+
+h1{
+    font-size:32px;
+    color:#323232;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+}
+.paragrafoum{
+    font-size:12px;
+    line-height: 18px;
+    color:#04BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+
+    
+
+}
+.paragrafodois{
+    font-size:13px;
+    line-height: 19.5px;
+    color:#BF1F1F;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+
+    
+
+}
+.paragrafotres{
+    font-size:14px;
+    line-height: 21px;
+    color:#F2BC1B;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    
+
+}
+span{
+    font-size:12px;
+    line-height: 18px;
+    color:#3A6B7E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+a:link { 
+    color: #323232; 
+    text-decoration: none;
+    }
+    
+    a:visited { 
+    color: #CBCBCB; 
+    text-decoration: none;
+    }
+    
+    a:hover { 
+    color: #7E7E7E; 
+    text-decoration: underline overline;
+    }

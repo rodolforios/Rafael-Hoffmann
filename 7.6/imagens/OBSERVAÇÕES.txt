@@ -1,0 +1,37 @@
+Título das páginas: Criciúma Esporte Clube
+
+Conteúdo 
+- Largura 810, cor de fundo #000000, centralizado, padding 10.
+
+Conteúdo (página inicial)
+- Largura 810, altura 375, cor de fundo #000000, centralizado, padding 10.
+
+Topo
+- Largura 830, centralizado.
+
+Rodapé
+- Largura 830, centralizado.
+
+Geral
+- Sem margem, imagem alinhada por baixo, fixa, não repete, cor de fundo #000000.
+
+Título 1 
+- Candara, #F9CF1D, centralizado.
+
+Título 3 
+- Candara, #F9CF1D.
+
+Texto principal
+- Verdana, justificado, 12, entrelinha 1.5, #e4f2e4.
+
+Texto destacado
+- Calibri, justificado, 14, entrelinha 1.5, #ffffff, itálico.
+
+Link normal
+Candara, 18, sem sublinhado, negrito, #F9CF1D.
+
+Link visitado
+Candara, 18, sublinhado, negrito, #FCE88F.
+
+Link com mouse em cima
+Candara, 18, sublinhado, negrito, #ffff00.

@@ -1,0 +1,21 @@
+Página 1 (index.html)
+Título da página: Revisão 2
+Fundo: fundo.jpg, não repete
+Div principal: margin-left: 550, padding: 10
+Título 1: Trebuchet MS,  #bf1515
+Título 2: Trebuchet MS,  #bf1515
+Texto normal: Trebuchet MS, 14, #790505, justificado, entrelinha 1.5
+Link normal: #660b0b
+Link visitado: #f21b1b
+Link mouse em cima: #dd7b7b
+
+Página 2 (conteudo2.html)
+Título da página: Exercício 1
+Fundo: fundo.jpg, não repete, fixo
+Título 1: Trebuchet MS,  #bf1515
+Título 2: Trebuchet MS,  #bf1515
+Texto normal: Trebuchet MS, 14, #790505, justificado, entrelinha 1.5
+Texto destacado: Tahoma, 12, #FF3636, itálico, entrelinha 1.5
+Link normal: #660b0b
+Link visitado: #f21b1b
+Link mouse em cima: #dd7b7

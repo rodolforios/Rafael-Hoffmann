@@ -1,0 +1,10 @@
+Página 1 (index.html)
+Título da página: HTML e CSS para bebês
+Fundo: : #ffe6cb;
+Título 1: Calibri,  #ed1651, espaçamento entre letras 5, espaçamento entre palavras 5
+Título 2: Calibri,  #ed1651
+Texto normal: Verdana, 12, color: #61371b, justificado, entrelinha 1.5
+Texto autor: Verdana, 10, #000000
+Link normal: Tahoma, #ed1651, negrito, sem sublinhado
+Link visitado: Tahoma, #f21b1b;
+Link mouse em cima: Tahoma, #dd7b7b, sublinhado
